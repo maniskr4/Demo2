@@ -1,2 +1,2 @@
 # Demo2
-this is a demo test for the git.
+This is a demo test for the git.
